@@ -14,6 +14,12 @@ export const siteConfig = {
       "Transformando processos em inteligência através da automação.",
   },
 
+  /** Domínio canônico de produção — única fonte de verdade para SEO
+   *  (metadataBase, Open Graph, JSON-LD, robots.txt e sitemap.xml). */
+  site: {
+    url: "https://codechaintechnology.tech",
+  },
+
   contact: {
     // Apenas dígitos, com DDI+DDD (usado no link do WhatsApp: wa.me/<numero>)
     whatsappNumber: "5513988257142",
