@@ -24,7 +24,7 @@ const mono = JetBrains_Mono({
   display: "swap",
 });
 
-const siteUrl = "https://codechain-automacoes.vercel.app";
+const siteUrl = siteConfig.site.url;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
