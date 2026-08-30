@@ -16,7 +16,7 @@ const config: Config = {
         "line-soft": "#151C2E",
         ink: "#F3F5FA",
         muted: "#8A93AA",
-        "muted-2": "#5C6478",
+        "muted-2": "#7C86A1",
         chain: {
           blue: "#2E6BFF",
           cyan: "#22D3EE",
